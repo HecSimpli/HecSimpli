@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HecSimpli
-- 👀 I’m interested in photography and web dev
-- 🌱 I’m currently learning git
+- 👀 I’m interested in photography and full stack web dev
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate soon
 - 📫 How to reach me this repository
 
